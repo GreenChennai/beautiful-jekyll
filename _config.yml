@@ -141,7 +141,7 @@ excerpt_length: 50
 
 # 用于分隔HTML文档标题中的网站标题和描述的字符
 # 和RSS提要标题
-title-separator: "-"
+title-separator: ""
 
 # ---不需要触摸下面的任何东西（但如果你愿意，你可以） - # 
 
