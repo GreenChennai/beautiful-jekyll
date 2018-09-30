@@ -21,7 +21,7 @@ navbar-links:
   关于: "aboutme"
   推荐站点:
     - 哔哩哔哩: "http://www.bilibili.com"
-    - GitHub Pages: "https://pages.github.com/"
+    - GitHub: "https://pages.github.com/"
 
 # 要在导航栏中显示的图像 - 图像必须是正方形（宽度=高度）
 # 如果您不想在导航栏中显示图像，请删除此参数
