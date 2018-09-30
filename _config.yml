@@ -6,7 +6,7 @@
 # 如果要构建一个简单的GitHub用户页面（http://username.github.io），请使用以下设置：
 
 url: "https://www.cxanimeclub.ml"
-baseurl: "/CXSdms"
+baseurl: ""
 
 #  网站标题
 title: 岑溪市动漫社
