@@ -8,40 +8,33 @@
 url: "https://www.cxanimeclub.ml"
 baseurl: "/CXSdms"
 
-#  If you are building a GitHub project page then use these settings:
-#  url: "http://username.github.io/projectname"
-#  baseurl: "/projectname"
-
-#  Of course don't forget to change the username and projectname to YOUR username and project
-
-#  Name of website
+#  网站标题
 title: 岑溪市动漫社
 
-#  Short description of your site
+# 网站简介
 description: 
 
-#  --- Navigation bar options --- # 
+#  --- 导航栏选项 --- # 
 
-#  List of links in the navigation bar
+#  导航栏中的链接列表
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - 哔哩哔哩: "http://www.bilibili.com"
     - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
 
-#  Image to show in the navigation bar - image must be a square (width = height)
-#  Remove this parameter if you don't want an image in the navbar
+# 要在导航栏中显示的图像 - 图像必须是正方形（宽度=高度）
+# 如果您不想在导航栏中显示图像，请删除此参数
+
 avatar: "/img/avatar-icon.png"
 
-#  If you want to have an image logo in the top-left corner instead of the title text,
-#  then specify the following parameter
-#  title-img: /path/to/image
+# 如果您想在左上角放置图像徽标而不是标题文字，
+# 然后指定以下参数
+# title-img：/ path / to / image
 
-#  --- Background colour/image options --- # 
+# ---背景颜色/图像选项---# 
 
-#  Personalize the colors in your website. Colour values can be any valid CSS colour
+# 个性化您网站的颜色。 颜色值可以是任何有效的CSS颜色
 
 navbar-col: "# F5F5F5"
 navbar-text-col: "# 404040"
@@ -53,30 +46,32 @@ footer-col: "# F5F5F5"
 footer-text-col: "# 777777"
 footer-link-col: "# 404040"
 
-#  Alternatively, the navbar, footer, and page background can be set to use background images
-#  instead of colour
+# 或者，可以将导航栏，页脚和页面背景设置为使用背景图像
+# 而不是颜色
 
-#  navbar-img: "/img/bgimage.png"
-#  footer-img: "/img/bgimage.png"
-#  page-img: "/img/bgimage.png"
+# navbar-img："/img/bgimage.png"
+# footer-img："/img/bgimage.png"
+# page-img："/img/bgimage.png"
 
-#  --- Footer options --- # 
+# ---页脚选项---# 
 
-#  Change all these values or delete the ones you don't want.
-#  Important: you must keep the "name" parameter, everything else you can remove
+# 更改所有这些值或删除不需要的值。
+# 重要提示：您必须保留"名称"参数，您可以删除其他所有内容
+
 author:
   name: Some Person
 
-#  Select your active Social Network Links.
-#  Uncomment the links you want to show in the footer and add your information to each link.
-#  You can reorder the items to define the link order.
-#  If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+#选择您的活动社交网络链接。
+#取消注释要在页脚中显示的链接，并将信息添加到每个链接。
+#您可以重新排序项目以定义链接顺序。
+#如果你想添加一个不在这里的新链接，你还需要编辑文件_data / SocialNetworks.yml
+
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  email: "luvse@foxmail.com"
+#  facebook: daattali
+  github: GreenChennai
+#  twitter: daattali
 #   reddit: yourname
 #   google-plus: +DeanAttali
 #   linkedin: daattali
@@ -91,52 +86,54 @@ social-network-links:
 #   twitch: yourname
 #   yelp: yourname
 
-#  Select which share links to show in posts
+#  选择要在帖子中显示的共享链接
 share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+  twitter: false
+  facebook: false
+  google: true
+  linkedin: false
 
-#  How to display the link to the website in the footer
-#  Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  #  eg. "deanattali.com/beautiful-jekyll"
+#如何在页脚中显示网站链接
+#如果您不想在页脚中添加链接，请将其删除
 
-#  --- Web Statistics Section --- # 
+url-pretty: "主页"  #  eg. "https://www.cxanimeclub.ml"
 
-#  Fill in your Google Analytics gtag.js ID to track your website using gtag
-# gtag: ""
+#---网站统计科---#
 
-#  Fill in your Google Analytics ID to track your website using GA
-# google_analytics: ""
+#填写您的Google Analytics（分析）gtag.js ID，以使用gtag跟踪您的网站
+#gtag：“”
 
-#  Google Tag Manager ID
-# gtm: ""
+#填写您的Google Analytics ID，使用GA跟踪您的网站
+# 谷歌分析： ””
 
-#  Matomo (aka Piwik) Web statistics
-#  Uncomment the following section to enable Matomo. The opt-out parameter controls
-#  whether or not you want to allow users to opt out of tracking.
+#Google Tag Manager ID
+#gtm：“”
 
-# matomo:
-#   site_id: "9"
-#   uri: "demo.wiki.pro"
-#   opt-out: true
+#Matomo（又名Piwik）网站统计
+#取消注释以下部分以启用Matomo。 选择退出参数控制
+#是否要允许用户选择退出跟踪。
 
-#  --- Comments --- # 
+#matomo：
+#site_id：“9”
+#uri：“demo.wiki.pro”
+#opt-out：true
 
-#  Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#  disqus: ""
+# - - 注释 - - #
 
-#  To use Facebook Comments, fill in a Facebook App ID
-#  fb_comment_id: ""
+#如果你想支持Disqus评论，请填写你的Disqus短名称（不是用户名）
+#disqus：“”
 
-#  --- Misc --- # 
+#要使用Facebook评论，请填写Facebook App ID
+#fb_comment_id：“”
 
-#  Facebook App ID
-#  fb_app_id: ""
+#---其他---#
 
-#  Excerpt Word Length
-#  Truncates the excerpt to the specified number of words on the index page
+#Facebook App ID
+#fb_app_id：“”
+
+#摘录字长
+#将摘录截断到索引页面上指定的单词数
+
 excerpt_length: 50
 
 #  Character used to separate site title and description in HTML document title
@@ -241,6 +238,3 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-#  Beautiful Jekyll / Dean Attali
-#  2fc73a3a967e97599c9763d05e564189
