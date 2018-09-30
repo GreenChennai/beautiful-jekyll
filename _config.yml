@@ -9,10 +9,10 @@ url: "https://www.cxanimeclub.ml"
 baseurl: ""
 
 #  网站标题
-title: 岑溪市
+title: 岑溪市动漫社
 
 # 网站简介
-description: 动漫社
+description: 
 
 #  --- 导航栏选项 --- # 
 
@@ -136,13 +136,14 @@ url-pretty: "主页"  #  eg. "https://www.cxanimeclub.ml"
 
 excerpt_length: 50
 
-#  Character used to separate site title and description in HTML document title
-#  and RSS feed title
+# 用于分隔HTML文档标题中的网站标题和描述的字符
+# 和RSS提要标题
 title-separator: "-"
 
-#  --- Don't need to touch anything below here (but you can if you want) --- # 
+# ---不需要触摸下面的任何东西（但如果你愿意，你可以） - # 
 
-#  Output options (more information on Jekyll's site)
+# 输出选项（有关Jekyll网站的更多信息）
+
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
@@ -152,7 +153,7 @@ paginate: 5
 kramdown:
   input: GFM
 
-#  Default YAML values (more information on Jekyll's site)
+# 默认YAML值（有关Jekyll网站的更多信息）
 defaults:
   -
     scope:
@@ -169,10 +170,10 @@ defaults:
       layout: "page"
       show-avatar: true
 
-#  Use tags index page and make tags on each post clickable
+#  使用标签索引页面并在每个帖子上点击标签
 link-tags: true
 
-#  Exclude these files from production site
+# 从生产站点中排除这些文件
 exclude:
   - CHANGELOG.md
   - CNAME
@@ -183,7 +184,7 @@ exclude:
   - README.md
   - Vagrantfile
 
-#  prose.io config
+#  prose.io配置
 prose:
   rooturl: '_posts'
   media: 'img'
