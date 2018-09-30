@@ -18,8 +18,8 @@ description:
 
 #  导航栏中的链接列表
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  关于: "aboutme"
+  推荐站点:
     - 哔哩哔哩: "http://www.bilibili.com"
     - GitHub Pages: "https://pages.github.com/"
 
