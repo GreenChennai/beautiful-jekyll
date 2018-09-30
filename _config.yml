@@ -62,7 +62,7 @@ footer-link-col: "# 404040"
 # 重要提示：您必须保留"名称"参数，您可以删除其他所有内容
 
 author:
-  name: Some Person
+  name: 服务器提供
 
 #选择您的活动社交网络链接。
 #取消注释要在页脚中显示的链接，并将信息添加到每个链接。
@@ -99,7 +99,7 @@ share-links-active:
 #如何在页脚中显示网站链接
 #如果您不想在页脚中添加链接，请将其删除
 
-url-pretty: "主页"  #  eg. "https://www.cxanimeclub.ml"
+url-pretty: "Github"  #  eg. "https://github.com"
 
 #---网站统计科---#
 
