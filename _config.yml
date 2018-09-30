@@ -49,7 +49,7 @@ footer-link-col: "# 404040"
 # 或者，可以将导航栏，页脚和页面背景设置为使用背景图像
 # 而不是颜色
 
- navbar-img："/img/hello_world.jpeg"
+navbar-img: "/img/hello_world.jpeg"
 # footer-img："/img/bgimage.png"
 # page-img："/img/bgimage.png"
 
