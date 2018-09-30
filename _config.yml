@@ -9,10 +9,10 @@ url: "https://www.cxanimeclub.ml"
 baseurl: ""
 
 #  网站标题
-title: 岑溪市动漫社
+title: 岑溪市
 
 # 网站简介
-description: 
+description: 动漫社
 
 #  --- 导航栏选项 --- # 
 
@@ -101,35 +101,35 @@ url-pretty: "主页"  #  eg. "https://www.cxanimeclub.ml"
 #---网站统计科---#
 
 #填写您的Google Analytics（分析）gtag.js ID，以使用gtag跟踪您的网站
-#gtag：“”
+#gtag：""
 
 #填写您的Google Analytics ID，使用GA跟踪您的网站
-# 谷歌分析： ””
+# 谷歌分析： ""
 
 #Google Tag Manager ID
-#gtm：“”
+#gtm：""
 
 #Matomo（又名Piwik）网站统计
 #取消注释以下部分以启用Matomo。 选择退出参数控制
 #是否要允许用户选择退出跟踪。
 
 #matomo：
-#site_id：“9”
-#uri：“demo.wiki.pro”
+#site_id："9"
+#uri："demo.wiki.pro"
 #opt-out：true
 
 # - - 注释 - - #
 
 #如果你想支持Disqus评论，请填写你的Disqus短名称（不是用户名）
-#disqus：“”
+#disqus：""
 
 #要使用Facebook评论，请填写Facebook App ID
-#fb_comment_id：“”
+#fb_comment_id：""
 
 #---其他---#
 
 #Facebook App ID
-#fb_app_id：“”
+#fb_app_id：""
 
 #摘录字长
 #将摘录截断到索引页面上指定的单词数
