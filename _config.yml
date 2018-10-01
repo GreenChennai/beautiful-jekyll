@@ -39,11 +39,11 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "# F5F5F5"
 navbar-text-col: "#000000"
 navbar-children-col: "# F5F5F5"
-page-col: "# FFFFFF"
+page-col: "#FFFFFFF"
 link-col: "#008AFF"
 #复制字体颜色
 hover-col: "#4169E1"
-footer-col: "# F5F5F5"
+footer-col: "#FFFFFFF"
 footer-text-col: "#000000"
 footer-link-col: "# 404040"
 
