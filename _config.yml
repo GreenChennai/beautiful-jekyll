@@ -26,6 +26,8 @@ navbar-links:
 # 要在导航栏中显示的图像 - 图像必须是正方形（宽度=高度）
 # 如果您不想在导航栏中显示图像，请删除此参数
 
+avatar: "/img/avatar-icon.png"
+
 #百度统计
 baidu:
     id: f0e8a535a5468bdefec1e06306ef2652
@@ -36,9 +38,6 @@ baidu:
 daovoice: true
 daovoice_app_id: 16f2fec0
 
-
-
-avatar: "/img/avatar-icon.png"
 
 # 如果您想在左上角放置图像徽标而不是标题文字，
 # 然后指定以下参数
@@ -57,7 +56,7 @@ link-col: "#008AFF"
 hover-col: "#4169E1"
 footer-col: "#FFFFFFF"
 footer-text-col: "#000000"
-footer-link-col: "# 404040"
+footer-link-col: "#000000"
 
 # 或者，可以将导航栏，页脚和页面背景设置为使用背景图像
 # 而不是颜色
