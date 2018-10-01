@@ -39,7 +39,7 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "# F5F5F5"
 navbar-text-col: "#000000"
 navbar-children-col: "# F5F5F5"
-page-col: "# FFFFFF"
+#page-col: "# FFFFFF"
 link-col: "#008AFF"
 hover-col: "#00BFFF"
 footer-col: "# F5F5F5"
@@ -54,7 +54,7 @@ footer-link-col: "# 404040"
 #最底
 #footer-img: "/img/hello_world.jpeg"
 #页面背景
-#page-img: "/img/hello_world.jpeg"
+page-img: "/img/background.png"
 
 # ---页脚选项---# 
 
