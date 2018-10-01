@@ -207,3 +207,29 @@ tag: 标签
   代码...
   代码...
 ```
+
+### MarkDown语法教程 2
+
+* 连接网络跳转
+
+```
+[百度](http://baidu.com)
+```
+
+[百度](http://baidu.com)
+
+* 图片和上述的 `bigimg:` 基本一样
+
+```
+![图片下方名字](图片地址)
+
+
+名字随意
+
+图片地址可以是 /img/子文件夹/文件名字.文件后缀名
+也可以是网站图片直连的超链接
+```
+
+* 示范
+
+![百度](https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/logo_white_fe6da1ec.png)
