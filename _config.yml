@@ -26,6 +26,10 @@ navbar-links:
 # 要在导航栏中显示的图像 - 图像必须是正方形（宽度=高度）
 # 如果您不想在导航栏中显示图像，请删除此参数
 
+baidu:
+    id: f0e8a535a5468bdefec1e06306ef2652
+
+
 avatar: "/img/avatar-icon.png"
 
 # 如果您想在左上角放置图像徽标而不是标题文字，
