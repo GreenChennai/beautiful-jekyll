@@ -29,6 +29,13 @@ navbar-links:
 #百度统计
 baidu:
     id: f0e8a535a5468bdefec1e06306ef2652
+    
+    
+    
+# 网页联系
+daovoice: true
+daovoice_app_id: 16f2fec0
+
 
 
 avatar: "/img/avatar-icon.png"
