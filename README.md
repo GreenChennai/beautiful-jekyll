@@ -19,6 +19,7 @@
 除了暗部的部员但是暗部的部长可以获得该权限
 ```
 * 成功获得权限之后可以上传你的帖子[到这里](https://github.com/GreenChennai/CXSdms/tree/master/_posts)
+* 图片上传[到这里](https://github.com/GreenChennai/CXSdms/tree/master/img)
 ```
 点击Upload files (上传文件)按钮即可
 如需要删除则可以点开你上传的文件然后点击右上角的垃圾桶按钮
