@@ -7,6 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
+  text-shadow: 1px 2px 3px #FF0000;
   color: #000;
   position: relative;
   background-color: {{ site.page-col }};
