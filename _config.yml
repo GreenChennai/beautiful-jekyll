@@ -82,10 +82,10 @@ author:
 #如果你想添加一个不在这里的新链接，你还需要编辑文件_data / SocialNetworks.yml
 
 social-network-links:
-  rss: true
-  email: "luvse@foxmail.com"
+  rss: false
+#  email: "luvse@foxmail.com"
 #  facebook: daattali
-  github: GreenChennai
+#  github: GreenChennai
 #  twitter: daattali
 #   reddit: yourname
 #   google-plus: +DeanAttali
