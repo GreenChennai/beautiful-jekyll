@@ -41,7 +41,7 @@ daovoice_app_id: 16f2fec0
 
 # 如果您想在左上角放置图像徽标而不是标题文字，
 # 然后指定以下参数
-# title-img：/ path / to / image
+title-img: "/img/LLogo.png"
 
 # ---背景颜色/图像选项---# 
 
