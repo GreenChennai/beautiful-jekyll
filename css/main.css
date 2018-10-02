@@ -7,7 +7,7 @@ layout: null
 /* --- General --- */
 
 body {
-  text-shadow: 6px 6px 6px #000000;
+  text-shadow: 2px 2px 2px #FFFFFF;
   color: #000;
   position: relative;
   background-color: {{ site.page-col }};
@@ -76,7 +76,7 @@ a:focus {
   color: {{ site.hover-col }};
 }
 blockquote {
-  text-shadow: 6px 6px 6px #000000;
+  text-shadow: 2px 2px 2px #FFFFFF;
   box-shadow:2px 2px 5px #333333
   color: #000000;
 }
