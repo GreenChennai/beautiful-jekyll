@@ -48,14 +48,14 @@ daovoice_app_id: 16f2fec0
 # 个性化您网站的颜色。 颜色值可以是任何有效的CSS颜色
 
 navbar-col: "# F5F5F5"
-navbar-text-col: "#000000"
+navbar-text-col: "#ffffff"
 navbar-children-col: "#ffffff"
 page-col: "#FFFFFFF"
 link-col: "#008AFF"
 #复制字体颜色
 hover-col: "#4169E1"
 footer-col: "#FFFFFFF"
-footer-text-col: "#000000"
+footer-text-col: "#ffffff"
 footer-link-col: "#4876FF"
 
 # 或者，可以将导航栏，页脚和页面背景设置为使用背景图像
