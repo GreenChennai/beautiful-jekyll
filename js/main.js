@@ -13,7 +13,7 @@
             span = document.createElement('span');
         span.textContent = coreSocialistValues[index];
         index = (index + 1) % coreSocialistValues.length;
-        span.style.cssText = ['z-index: 9999999; position: absolute; font-weight: bold; color: #7B68EE; top: ', y - 20, 'px; left: ', x, 'px;'].join('');
+        span.style.cssText = ['z-index: 9999999; position: absolute; font-weight: bold; color: #7B68EE; top: ', y - 10, 'px; left: ', x, 'px;'].join('');
         document.body.appendChild(span);
         animate(span);
     });
