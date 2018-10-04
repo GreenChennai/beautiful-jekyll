@@ -364,13 +364,13 @@ footer .theme-by {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 20px;
+  padding: 35px;
   border-bottom: 2px solid #eee;
 }
 
 @media only screen and (min-width: 768px) {
   .post-preview {
-    padding: 35px 0;
+    padding: 35px;
   }
 }
 
