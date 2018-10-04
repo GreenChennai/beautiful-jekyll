@@ -19,7 +19,7 @@ p {
   line-height: 1.5;
 }
 
-/*背景半透明*/
+/*背景半透明+小圆角*/
 
 .posts-list {
     background-color: rgba(255, 255, 255, 0.5);
@@ -32,12 +32,13 @@ article.blog-post {
 	
 }
 
+/*来必力半透明+小圆角*/
 section.post-comments {
     background-color: rgba(255, 255, 255, 0.5);
 	border-radius: 15px 15px 15px 15px;
 }
 
-/*背景半透明*/
+/*背景半透明+小圆角*/
 
 h1,
 h2,
