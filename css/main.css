@@ -7,7 +7,6 @@ layout: null
 /* --- General --- */
 
 body {
-  text-shadow: 2px 2px 2px #FFFFFF;
   color: #000;
   position: relative;
   background-color: {{ site.page-col }};
@@ -19,6 +18,11 @@ body {
 p {
   line-height: 1.5;
 }
+
+.posts-list {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
 
 h1,
 h2,
@@ -76,7 +80,7 @@ a:focus {
   color: {{ site.hover-col }};
 }
 blockquote {
-  text-shadow: 2px 2px 2px #FFFFFF;
+  
   box-shadow:2px 2px 5px #333333
   color: #000000;
 }
