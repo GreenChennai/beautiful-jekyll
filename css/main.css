@@ -19,10 +19,25 @@ p {
   line-height: 1.5;
 }
 
+/*背景半透明*/
+
 .posts-list {
     background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 15px 15px 15px 15px;
 }
 
+article.blog-post {
+    background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 15px 15px 15px 15px;
+	
+}
+
+section.post-comments {
+    background-color: rgba(255, 255, 255, 0.5);
+	border-radius: 15px 15px 15px 15px;
+}
+
+/*背景半透明*/
 
 h1,
 h2,
